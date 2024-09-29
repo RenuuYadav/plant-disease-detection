@@ -1,6 +1,5 @@
 # 🌱 Plant Disease Detection
 
-![Plant Disease Detection](path/to/your/image.png)
 
 A machine learning-powered application to detect plant diseases from images. The system helps farmers and gardeners identify diseases early, leading to timely treatment and improved crop yield.
 
